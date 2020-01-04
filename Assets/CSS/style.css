@@ -29,6 +29,7 @@ h1 {
 
 .nav{
     float: right;
+    display: inline;
     margin-top: 50px;
     margin-right: 20px;
 }
