@@ -122,34 +122,53 @@ input[type=submit] {
 }
 
 /*Portfolio*/
+a {
+    text-decoration: none;
+}
 .photo1 {
     margin: 20px;
     display: inline-block;
     position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url("../Images/placeholder.png");
+    
 }
 
 .photo2 {
     margin: 20px;
     display: inline-block;
     position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url("../Images/placeholder.png");
 }
 
 .photo3 {
     margin: 20px;
     display: inline-block;
     position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url("../Images/placeholder.png");
 }
 
 .photo4 {
     margin: 20px;
     display: inline-block;
     position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url("../Images/placeholder.png");
 }
 
 .photo5 {
     margin: 20px;
     display: inline-block;
     position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url("../Images/placeholder.png");
 }
 
 .text{
